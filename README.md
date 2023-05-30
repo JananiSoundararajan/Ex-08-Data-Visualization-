@@ -130,7 +130,7 @@ plt.show()
 
 ```
 
-# OUPUT
+# OUTPUT
 ## df.head()
 ![image](https://github.com/SASIDEVIvenaram/Ex-08-Data-Visualization-/assets/118707332/e013412e-079f-4614-ab1c-0bee072353c4)
 
