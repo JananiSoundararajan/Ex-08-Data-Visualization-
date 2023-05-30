@@ -18,11 +18,10 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # CODE:
-
-Developed by: JANANI S ,
+```
+Developed by: JANANI S 
 Register No.: 212222230049
 
-```
 import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt
